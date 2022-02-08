@@ -68,3 +68,8 @@ You might know `malloc` and how compiler compiles your code into avr assembly, n
 - Send to JLCPCB or any other PCB manufacturer
 - Assemble your PCB and demostrate the functionality
 - (optional: learn HDMI signal)
+
+## 10. How OS talks to hardware
+
+- Writting a simple driver in linux kernel
+- Be able to modify the kernel
