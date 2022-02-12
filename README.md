@@ -24,6 +24,9 @@ First we need to know how electricity is made, we can't run program without elec
 
 ## 3. Build a simple CPU
 
+- Breadboard level
+- from verilog to real FPGA 
+
 ## 5. AVR Programming
 
 Easiest way to learn how hardware, firmware works without OS overhead
